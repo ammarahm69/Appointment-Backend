@@ -2,7 +2,7 @@
     "version": 2,
     "builds": [
       {
-        "src": "index.js",
+        "src": "/-Stack-Doctor-Appointment-Booking-System-Using-MERN-Stack-Backend-main/index.js",
         "use": "@vercel/node"
       }
     ],
